@@ -1,7 +1,5 @@
 # react-native-ecommerce
-A minimal React Native e-commerce app template.
-
-This project provides a minimal starter project structure for your next awesome e-commerce app. 
+A minimal React Native e-commerce app 
 
 - Screens: products list, details, and shopping cart summary.
 - Simple state management with React Context API.
